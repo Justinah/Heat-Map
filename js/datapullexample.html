@@ -7,8 +7,7 @@
 <body>
 <script>
 
-	var = myData
-
+var myData
 StockRender.AppRender.register({
 	id: "49e90eee6ce1942a94136fc8db19319c",
 	name: "HeatMap",
@@ -21,10 +20,14 @@ StockRender.AppRender.register({
 			h: 100
 		}
 	},
+
 	beforeRender: function () {
-		console.log('running beforeRender!');
+		console.log('running beforeRender!'); /*message*/
 	},
+
 	ready: function(AppMemory, AppData) {
+		var meData
+		
 	AppData.v1.Tickerlist.GET('a').then(function(data){
 		myData = data.response;
 	})
