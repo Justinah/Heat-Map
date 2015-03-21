@@ -1,0 +1,211 @@
+{
+    "chart": {
+        "caption": "Weekly Performance",
+        "subcaption": "In percentage",
+        "xaxislabel": "Week Days",
+        "yaxislabel": "Companies",
+        "canvasbgcolor": "EFEFEF",
+        "xaxisname": "WeekDays",
+        "yaxisname": "Companies",
+        "showcolumnidintooltip": "1",
+        "showrowidintooltip": "1",
+        "tooltipsepchar": "",
+        "legendiconscale": "1",
+        "legendposition": "bottom",
+        "animation": "1",
+        "reverselegend": "0",
+        "bgcolor": "A6CAF0",
+        "showborder": "0"
+    },
+    "dataset": [
+        {
+            "data": [
+                {
+                    "rowid": "Google",
+                    "columnid": "MON",
+                    "value": "80.456"
+                },
+                {
+                    "rowid": "Google",
+                    "columnid": "TUE",
+                    "value": "95"
+                },
+                {
+                    "rowid": "Google",
+                    "columnid": "WED",
+                    "value": "85"
+                },
+                {
+                    "rowid": "Google",
+                    "columnid": "THU",
+                    "value": "65"
+                },
+                {
+                    "rowid": "Google",
+                    "columnid": "FRI",
+                    "value": "0"
+                },
+                {
+                    "rowid": "Yahoo",
+                    "columnid": "MON",
+                    "value": "60"
+                },
+                {
+                    "rowid": "Yahoo",
+                    "columnid": "TUE",
+                    "value": "39"
+                },
+                {
+                    "rowid": "Yahoo",
+                    "columnid": "WED",
+                    "value": "46"
+                },
+                {
+                    "rowid": "Yahoo",
+                    "columnid": "THU",
+                    "value": "35"
+                },
+                {
+                    "rowid": "Yahoo",
+                    "columnid": "FRI",
+                    "value": "78"
+                },
+                {
+                    "rowid": "Microsoft",
+                    "columnid": "MON",
+                    "value": "10"
+                },
+                {
+                    "rowid": "Microsoft",
+                    "columnid": "TUE",
+                    "value": "65"
+                },
+                {
+                    "rowid": "Microsoft",
+                    "columnid": "WED",
+                    "value": "95"
+                },
+                {
+                    "rowid": "Microsoft",
+                    "columnid": "THU",
+                    "value": "75"
+                },
+                {
+                    "rowid": "Microsoft",
+                    "columnid": "FRI",
+                    "value": "100"
+                },
+                {
+                    "rowid": "IBM",
+                    "columnid": "MON",
+                    "value": "98"
+                },
+                {
+                    "rowid": "IBM",
+                    "columnid": "TUE",
+                    "value": "25"
+                },
+                {
+                    "rowid": "IBM",
+                    "columnid": "WED",
+                    "value": "5"
+                },
+                {
+                    "rowid": "IBM",
+                    "columnid": "THU",
+                    "value": "27"
+                },
+                {
+                    "rowid": "IBM",
+                    "columnid": "FRI",
+                    "value": "71"
+                },
+                {
+                    "rowid": "Symantec",
+                    "columnid": "MON",
+                    "value": "68"
+                },
+                {
+                    "rowid": "Symantec",
+                    "columnid": "TUE",
+                    "value": "85"
+                },
+                {
+                    "rowid": "Symantec",
+                    "columnid": "WED",
+                    "value": "45"
+                },
+                {
+                    "rowid": "Symantec",
+                    "columnid": "THU",
+                    "value": "90"
+                },
+                {
+                    "rowid": "Symantec",
+                    "columnid": "FRI",
+                    "value": "99"
+                },
+                {
+                    "rowid": "Accenture",
+                    "columnid": "MON",
+                    "value": "92"
+                },
+                {
+                    "rowid": "Accenture",
+                    "columnid": "TUE",
+                    "value": "53"
+                },
+                {
+                    "rowid": "Accenture",
+                    "columnid": "WED",
+                    "value": "92"
+                },
+                {
+                    "rowid": "Accenture",
+                    "columnid": "THU",
+                    "value": "20"
+                },
+                {
+                    "rowid": "Accenture",
+                    "columnid": "FRI",
+                    "value": "33"
+                },
+                {
+                    "rowid": "Aol",
+                    "columnid": "MON",
+                    "value": "1"
+                },
+                {
+                    "rowid": "Aol",
+                    "columnid": "TUE",
+                    "value": "39"
+                },
+                {
+                    "rowid": "Aol",
+                    "columnid": "WED",
+                    "value": "74"
+                },
+                {
+                    "rowid": "Aol",
+                    "columnid": "THU",
+                    "value": "80"
+                },
+                {
+                    "rowid": "Aol",
+                    "columnid": "FRI",
+                    "value": "18"
+                }
+            ]
+        }
+    ],
+    "colorrange": {
+        "mapbypercent": "1",
+        "gradient": "1",
+        "minvalue": "0",
+        "code": "2A7FAA",
+        "startlabel": "Very Bad",
+        "endlabel": "Very Good"
+    }
+}
+/* I copied this from http://www.fusioncharts.com/charts/heat-map-charts/. */
+/* I'll take a look at it soon. */ 
